@@ -1,14 +1,7 @@
 # QRadarLabSetup
-This lab demonstrates the deployment of IBM QRadar SIEM (Security Information and Event Management) in a virtualized environment for security monitoring and threat detection
-
-
-
-<h1>QRadarLabSetup</h1>
 
 <h2>Description</h2>
-Project activities include setting up IBM Qradar Community Edition , Familiarising with the interface, Checking out the IBM X-Force App exchange platform for extentions and apps, Accessing the Dashboard, installing and setting up Windows Server, installing & configuring Wincollect, Integrating syslog on the IBM Qradar Console using Putty.
-<br />
-
+This lab demonstrates the deployment of IBM QRadar SIEM (Security Information and Event Management) in a virtualized environment for security monitoring and threat detection
 
 <h2> Tools Used</h2>
 
